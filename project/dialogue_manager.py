@@ -80,4 +80,3 @@ class DialogueManager(object):
             thread_id = #### YOUR CODE HERE ####
            
             return self.ANSWER_TEMPLATE % (tag, thread_id)
-
